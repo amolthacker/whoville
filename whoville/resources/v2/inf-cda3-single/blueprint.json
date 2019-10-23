@@ -50,7 +50,7 @@
       "spark2-defaults": {
         "properties_attributes": {},
         "properties": {
-          "spark.datasource.hive.warehouse.metastoreUri": "thrift://%HOSTGROUP::master1%:9083",
+          "spark.datasource.hive.warehouse.metastoreUri": "thrift://%HOSTGROUP::master%:9083",
           "spark.datasource.hive.warehouse.load.staging.dir": "/tmp"
         }
       }
