@@ -241,6 +241,9 @@
           "name": "NIFI_CA"
         },
         {
+          "name": "METRICS_COLLECTOR"
+        },
+        {
           "name": "METRICS_GRAFANA"
         },
         {
