@@ -28,7 +28,7 @@ blueprint:
   name: blueprint.json
 group:
   master:
-    machine: 4x28-8x32
+    machine: 14x60-18x68
     recipe: [pre-ambari-configs]
     type: GATEWAY
 recipe:
