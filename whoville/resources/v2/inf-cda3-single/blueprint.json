@@ -79,6 +79,14 @@
       }
     },
     {
+      "ams-hbase-site": {
+        "properties": {
+          "hbase.cluster.distributed": "true",
+          "hbase.rootdir": "file:///hadoopfs/fs1/metrics/hbase/data"
+        }
+      }
+    },
+    {
       "atlas-env": {
         "properties": {
           "atlas_solr_shards": "2",
