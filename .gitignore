@@ -118,4 +118,7 @@ whoville/cloudbreak/models/__pycache__/
 
 *.iml
 
+# VSCode
+.vscode/
+
 #*.*#
